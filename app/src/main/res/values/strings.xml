@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To_Do</string>
+    <string name="Add">ADD TASK</string>
+    <string name="show">SHOW</string>
+    <string name="name">Name</string>
+    <string name="select">Select Status</string>
+    <string name="update">UPDATE TASK</string>
+
+    <string-array name="status">
+        <item>Pending</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
